@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" line="1557" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0a5927-96f6-47f2-b467-0a3e7793157b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SoftTestProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/ScoreLuckDraw.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/dynamicModifyThreadExecutor/DynamicChangeThreadPoolArgs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sourceCodeLearn/IntegerCacheTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="773" column="59" selection-start-line="773" selection-start-column="39" selection-end-line="773" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/JadenLockSupportForABC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="723">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBugSolve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/MainThreadAndNewThreadPrintOneByOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/alibabaInterview/Async2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/alibabaInterview/Async1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MaxPriceCutRod.java" />
+        <option value="$PROJECT_DIR$/src/MaxValueBag.java" />
+        <option value="$PROJECT_DIR$/src/thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/thread/CharThread.java" />
+        <option value="$PROJECT_DIR$/src/thread/NumberThread.java" />
+        <option value="$PROJECT_DIR$/src/thread/ValueObject.java" />
+        <option value="$PROJECT_DIR$/src/thread/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/thread/useSynWaitNotifyProduceerConsumer/NumberThread.java" />
+        <option value="$PROJECT_DIR$/src/IntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/RemoveSameValue.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/Work6.java" />
+        <option value="$USER_HOME$/Desktop/ShowMeBug.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/ShowMeBug.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/ShowMeBugSolve.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/Work5.java" />
+        <option value="$PROJECT_DIR$/src/onlineProblemSolve/MainThreadAndNewThreadPrintOneByOne.java" />
+        <option value="$PROJECT_DIR$/src/sourceCodeLearn/IntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/classicalAlgorithm/MaxValueBag.java" />
+        <option value="$PROJECT_DIR$/src/classicalAlgorithm/MaxPriceCutRod.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/JadenLockSupportForABC.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/Test.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/alibabaInterview/ThreadAsync.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/alibabaInterview/Async.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/alibabaInterview/Async1.java" />
+        <option value="$PROJECT_DIR$/src/writeExamFor91/alibabaInterview/Async2.java" />
+        <option value="$PROJECT_DIR$/src/thread/SpinLock/JadenSpinLock.java" />
+        <option value="$PROJECT_DIR$/src/thread/userLockSupport/JadenLockSupport.java" />
+        <option value="$PROJECT_DIR$/src/thread/useSynWaitNotifyProduceerConsumer/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/thread/blockingQueue/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/thread/useBlockingQueue/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/thread/useBlockingQueue/JadenBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/thread/useSynWaitNotifyProduceerConsumer/CharThread.java" />
+        <option value="$PROJECT_DIR$/src/thread/useSynWaitNotifyProduceerConsumer/ValueObject.java" />
+        <option value="$PROJECT_DIR$/src/thread/useReentrantLockCondition/LockCondition.java" />
+        <option value="$PROJECT_DIR$/src/thread/useReentrantLockCondition/JadenLockCondition.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/ScoreLuckDraw.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/Prize.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/User.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/Test.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBug.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBugSolve.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/alibabaInterview/Async1.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/MainThreadAndNewThreadPrintOneByOne.java" />
+        <option value="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/ScoreLuckDraw.java" />
+        <option value="$PROJECT_DIR$/src/thread/dynamicModifyThreadExecutor/DynamicChangeThreadPoolArgs.java" />
+        <option value="$PROJECT_DIR$/src/sourceCodeLearn/IntegerCacheTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="128" />
+    <option name="y" value="44" />
+    <option name="width" value="1140" />
+    <option name="height" value="799" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637654763154" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="thread.useSynWaitNotifyProduceerConsumer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="writeExamFor91.alibabaInterview" />
+      <recent name="writeExamFor91" />
+      <recent name="thread" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IntegerCacheTest">
+    <configuration name="IntegerCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sourceCodeLearn.IntegerCacheTest" />
+      <module name="SoftTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sourceCodeLearn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JadenLockCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.useReentrantLockCondition.JadenLockCondition" />
+      <module name="SoftTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.useReentrantLockCondition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.useSynWaitNotifyProducerConsumer.MainTest" />
+      <module name="SoftTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.useSynWaitNotifyProducerConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoreLuckDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writeExamForItcast.writeExamFor88.randomWeightLuckDraw.ScoreLuckDraw" />
+      <module name="SoftTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writeExamForItcast.writeExamFor88.randomWeightLuckDraw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writeExamForItcast.Test" />
+      <module name="SoftTestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writeExamForItcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.JadenLockCondition" />
+      <item itemvalue="Application.ScoreLuckDraw" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.IntegerCacheTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntegerCacheTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ScoreLuckDraw" />
+        <item itemvalue="Application.JadenLockCondition" />
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0a5927-96f6-47f2-b467-0a3e7793157b" name="Default Changelist" comment="" />
+      <created>1631843220368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631843220368</updated>
+      <workItem from="1631843221738" duration="7012000" />
+      <workItem from="1631973554490" duration="550000" />
+      <workItem from="1632359330296" duration="617000" />
+      <workItem from="1632561972974" duration="1944000" />
+      <workItem from="1632817708595" duration="532000" />
+      <workItem from="1634735672368" duration="6106000" />
+      <workItem from="1635149823640" duration="7708000" />
+      <workItem from="1635642831163" duration="702000" />
+      <workItem from="1635662212765" duration="185000" />
+      <workItem from="1636459738035" duration="209000" />
+      <workItem from="1636600144569" duration="13699000" />
+      <workItem from="1636678673311" duration="2516000" />
+      <workItem from="1637031847298" duration="4542000" />
+      <workItem from="1637202215700" duration="2089000" />
+      <workItem from="1637284646773" duration="6365000" />
+      <workItem from="1637543377355" duration="4000" />
+      <workItem from="1637648692399" duration="3773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58553000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="128" y="44" width="1140" height="799" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759036" visible="true" weight="0.36247724" />
+      <window_info id="Structure" order="1" sideWeight="0.50240964" side_tool="true" weight="0.25965664" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.25608012" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3566265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759036" visible="true" weight="0.28476822" />
+      <window_info id="Structure" order="1" sideWeight="0.50240964" side_tool="true" weight="0.25965664" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.25608012" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37710842" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/NumberThread.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/CharThread.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1556</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1553</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1565</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBugSolve.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>workQueue.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>workerCountOf(ctl.get())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ctl.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/李亚东14/李亚东/src/Test2/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/李亚东14/李亚东/src/Test3/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/李亚东14/李亚东/src/Test4/test.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/孔维通15/KaoShi11_12/src/ti1/Test1.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/孔维通15/KaoShi11_12/src/ti2/testWanxing1.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/孔维通15/KaoShi11_12/src/ti3/Race.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/孔维通15/KaoShi11_12/src/ti4/Test1.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/day1112/src/com/itheima/kaoshi/T4.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/day1112/src/com/itheima/kaoshi/T3.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/day1112/src/com/itheima/kaoshi/T2.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/day1112/src/com/itheima/kaoshi/T1.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/游成斌17/代码题-第1题.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/游成斌17/代码题-第3题.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/游成斌17/代码题-第4题.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/游成斌17/代码题-第2题.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/KaoShi/src/com/itheima/Test01/Test01.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/KaoShi/src/com/itheima/Test02/testWanxing1.java" />
+    <entry file="file://$USER_HOME$/Desktop/2021-11-12-96期阶段考试大题收集/KaoShi/src/com/itheima/Test04/Test04.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/杨志19/Race.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/杨志19/kaoshii.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/杨志19/代码题-第2题.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/邬君豪20/kaoshi01/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/邬君豪20/kaoshi02/testWanxing1.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/邬君豪20/kaoshi03/Race.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/邬君豪20/kaoshi04/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/聂晓峰21/第一题就错.java" />
+    <entry file="file://$USER_HOME$/Desktop/阶段考试2021-11-16/聂晓峰21/代码题-第2题.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="261" column="6" selection-start-line="261" selection-start-column="6" selection-end-line="261" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useBlockingQueue/JadenBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/ValueObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="187" column="13" selection-start-line="187" selection-start-column="13" selection-end-line="187" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/userLockSupport/JadenLockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/NumberThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useSynWaitNotifyProducerConsumer/CharThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/useReentrantLockCondition/JadenLockCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/SpinLock/JadenSpinLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classicalAlgorithm/MaxValueBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="297" column="37" selection-start-line="297" selection-start-column="37" selection-end-line="297" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/JadenLockSupportForABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/ShowMeBugSolve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/alibabaInterview/Async2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/alibabaInterview/Async1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor91/MainThreadAndNewThreadPrintOneByOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/writeExamFor88/randomWeightLuckDraw/ScoreLuckDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/dynamicModifyThreadExecutor/DynamicChangeThreadPoolArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writeExamForItcast/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="773" column="59" selection-start-line="773" selection-start-column="39" selection-end-line="773" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sourceCodeLearn/IntegerCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SoftTestProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
