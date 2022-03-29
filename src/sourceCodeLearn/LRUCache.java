@@ -14,6 +14,8 @@ void put(int key, int value) 如果关键字已经存在，则变更其数据�
  
 
 进阶：你是否可以在 O(1) 时间复杂度内完成这两种操作？【需要使用到Hash算法】
+
+参考介绍链接：https://blog.csdn.net/justloveyou_/article/details/71713781
 * */
 public class LRUCache extends LinkedHashMap<Integer, Integer>{
 
