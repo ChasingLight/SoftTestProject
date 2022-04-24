@@ -2,7 +2,7 @@ package thread.dynamicModifyThreadExecutor;
 
 import java.util.concurrent.*;
 
-//线程池运行过程中，动态修改参数。不必重启线程池，就能起作用！
+//线程池运行过程中，动态修改参数。不必重启线程池，就能起作用！【已测】
 public class DynamicChangeThreadPoolArgs {
 
     public static void main(String[] args) throws InterruptedException{

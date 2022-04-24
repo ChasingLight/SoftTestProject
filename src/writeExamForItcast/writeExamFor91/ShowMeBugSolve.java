@@ -38,7 +38,7 @@ class IAL implements IA{
     }
 }
 
-//自己书写通用的---动态代理类
+//自己书写通用的---动态代理类【基于JDKProxy-底层基于接口】
 class ProxyHandler implements InvocationHandler{
 
     private Object targetObject; //目标对象
@@ -52,7 +52,8 @@ class ProxyHandler implements InvocationHandler{
      * @param returnResult  方法返回值
      * @return
      */
-    public Object newProxyInstance(Object targetObject, String methodName, String returnResult) throws Exception {
+    public Object newProxyInstance(Object targetObject, String methodName, String returnResult)
+            throws Exception {
 
         this.targetObject = targetObject;
         this.methodName = methodName;
@@ -60,21 +61,22 @@ class ProxyHandler implements InvocationHandler{
 
         //将被代理的对象【类加载器 && 实现接口】 作为Proxy.newProxyInstance方法的参数。
         //this 当前对象，该对象实现了InvocationHandler接口的invoke方法：通过invoke方法可以调用被代理对象的方法
-        return Proxy.newProxyInstance(targetObject.getClass().getClassLoader(), targetObject.getClass().getInterfaces(), this);
+        return Proxy.newProxyInstance(targetObject.getClass().getClassLoader(),
+                targetObject.getClass().getInterfaces(), this);
     }
 
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
-        Object invoke = method.invoke(targetObject, args);
+        Object methodReturn = method.invoke(targetObject, args);
 
         // 类似AOP的后增强处理
         if (method.getName().equals(methodName)){
-            invoke = returnResult;
+            methodReturn = returnResult;
         }else{
-            invoke = null;
+            methodReturn = null;
         }
-        return invoke;
+        return methodReturn;
     }
 }
 

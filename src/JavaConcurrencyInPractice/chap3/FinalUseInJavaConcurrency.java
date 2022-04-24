@@ -1,19 +1,17 @@
 package JavaConcurrencyInPractice.chap3;
 
-import writeExamForItcast.Test;
-
 import java.util.HashMap;
 
 /*
 《Java并发编程实战 chap3.4 不变性 p38》
 * final关键字在并发编程中的使用
 * */
-public class FinalInJavaConcurrency {
+public class FinalUseInJavaConcurrency {
 
     private final HashMap<String, String> map;
     private final Integer i;
 
-    public FinalInJavaConcurrency(HashMap<String, String> sourceMap, Integer i){
+    public FinalUseInJavaConcurrency(HashMap<String, String> sourceMap, Integer i){
         this.i = i;
 
         // 克隆【2个map对象】
@@ -40,7 +38,7 @@ public class FinalInJavaConcurrency {
         Integer sourceI = 6;
 
 
-        FinalInJavaConcurrency finalConcurrency = new FinalInJavaConcurrency(sourceMap, sourceI);
+        FinalUseInJavaConcurrency finalConcurrency = new FinalUseInJavaConcurrency(sourceMap, sourceI);
 
         System.out.println(finalConcurrency.i);
         // 【编译错误】无法修改final修饰基础类型的值
