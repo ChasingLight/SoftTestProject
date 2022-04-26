@@ -9,7 +9,7 @@ public class MainTest {
 
         double money = 100;
 
-        //待优化点：不同策略的-核心参数都是money，除了普通策略其他需要额外参数。
+        //TODO 待优点：不同策略的-核心参数都是money，除了普通策略其他需要额外参数。
         ChargeSuperProxyAndFactory chargeSuperProxy = new ChargeSuperProxyAndFactory(ChargeTypeEnum.NORMAL,0,0);
         double finalMoney = chargeSuperProxy.chargeProxy(money);
         System.out.println(finalMoney);
