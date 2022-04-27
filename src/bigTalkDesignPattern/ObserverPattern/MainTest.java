@@ -7,6 +7,8 @@ import bigTalkDesignPattern.ObserverPattern.concreteSubjectObserver.concreteObse
 import bigTalkDesignPattern.ObserverPattern.concreteSubjectObserver.concreteSubject.TrafficLightsStateEnum;
 import bigTalkDesignPattern.ObserverPattern.concreteSubjectObserver.concreteSubject.TrafficLightsSubject;
 
+import java.util.Collections;
+
 public class MainTest {
 
     public static void main(String[] args) {

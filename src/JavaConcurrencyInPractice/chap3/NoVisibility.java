@@ -1,6 +1,9 @@
 package JavaConcurrencyInPractice.chap3;
 
+import JavaConcurrencyInPractice.annotation.NotThreadSafe;
+
 //没有同步情况下共享变量
+@NotThreadSafe
 public class NoVisibility {
     private static  boolean ready = false;  //默认值为false
     private static  int number;
@@ -21,11 +24,6 @@ public class NoVisibility {
         //主线程
         number = 27;
         ready = true;
-
-
-
-
-
 
     }
 }
