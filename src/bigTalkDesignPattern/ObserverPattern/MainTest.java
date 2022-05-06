@@ -29,7 +29,6 @@ public class MainTest {
         trafficSubject.setTrafficLightsStateEnum(TrafficLightsStateEnum.RED);
         trafficSubject.notifyObs();
 
-
         //绿灯行
         trafficSubject.setTrafficLightsStateEnum(TrafficLightsStateEnum.GREEN);
         trafficSubject.notifyObs();

@@ -7,7 +7,7 @@ public abstract class Subject {
 
     // 状态变化集合---延迟到具体的Subject中实现
 
-    // 待通知的---多个观察者
+    // 待通知的---多个观察者【核心地方】
     List<Observer> observers = new ArrayList<>();
 
     // 增加观察者

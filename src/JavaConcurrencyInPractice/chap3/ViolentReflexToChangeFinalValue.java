@@ -1,6 +1,7 @@
 package JavaConcurrencyInPractice.chap3;
 
 import java.lang.reflect.Field;
+import java.lang.reflect.Method;
 
 /**
  * 验证：使用暴力反射能否，修改私有的、final常量已有的值

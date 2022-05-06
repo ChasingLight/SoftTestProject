@@ -19,6 +19,12 @@ public class Test {
         map.put("4","4");
         map.put(null, null);
         System.out.println(map);
+
+        String s = "计算机工程系";
+        System.out.println(s.length());
+
+        StringBuffer sb = new StringBuffer();
+        System.out.println(sb.capacity());
     }
 
 }

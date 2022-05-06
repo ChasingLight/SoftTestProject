@@ -3,7 +3,7 @@ package bigTalkDesignPattern.ObserverPattern.concreteSubjectObserver.concreteObs
 import bigTalkDesignPattern.ObserverPattern.abstractSubjectObserver.Observer;
 import bigTalkDesignPattern.ObserverPattern.concreteSubjectObserver.concreteSubject.TrafficLightsSubject;
 
-//抽象交通信号灯-观察者类
+//抽象交通信号灯【模板方法模式】
 public abstract class TrafficObserver implements Observer {
 
     protected String carName;

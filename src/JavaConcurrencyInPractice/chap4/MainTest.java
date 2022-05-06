@@ -21,5 +21,8 @@ public class MainTest {
         //【请查看Collections.synchronizedList源码实现就可以窥探其中奥秘】
         List<Person> jadenSynList = Collections.synchronizedList(jadenList);
 
+        //2022-5-6 ArrayList被装饰对象对客户端是可见的，所以是装饰模式。侧重方法拓展。
+        // RealSubject被代理对象对客户端是不可见的，所以是代理模式。侧重访问控制。
+
     }
 }
